@@ -1,0 +1,80 @@
+.botton {
+    border:none;
+    outline: none;
+    background-color: #278ab1;
+    color: white;
+    padding: 10px 20px;
+    font-size: 21px;
+    cursor: pointer;
+ }
+
+  nav li a.join{
+   color: #F63232;
+ } 
+
+
+ /* .digital img{
+   max-width: 100%;
+   } */
+
+   .digital img{
+      width: 100%;
+      height: 750;
+      }
+
+.blue {color: #8080c9}
+ 
+
+
+
+
+h1 {
+	text-align: center;
+  color: #278ab1;
+}
+p{
+	text-align: center;
+}
+
+form {
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #f5f5f5;
+	border-radius: 5px;
+  
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+	width: 100%;
+	padding: 10px;
+	border: 1px #ccc;
+	border-radius: 5px;
+	margin-bottom: 20px;
+  border: 1px none;
+
+}
+
+input[type="submit"] {
+	background-color: #278ab1;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.prima {
+  color: #2d332c;
+  text-align: left}
+
+  .sotto {
+    text-align: left
+  }
